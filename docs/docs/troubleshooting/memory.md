@@ -1,6 +1,6 @@
 ---
 id: memory
-title: Memory Troubleshooting
+title: Memory Usage
 ---
 
 Frigate includes built-in memory profiling using [memray](https://bloomberg.github.io/memray/) to help diagnose memory issues. This feature allows you to profile specific Frigate modules to identify memory leaks, excessive allocations, or other memory-related problems.
@@ -36,7 +36,6 @@ Frigate processes are named using a module-based naming scheme. Common module na
 - `frigate.output` - Output processing
 - `frigate.audio_manager` - Audio processing
 - `frigate.embeddings` - Embeddings processing
-- `frigate.embeddings_manager` - Embeddings manager
 
 You can also specify the full process name (including camera-specific identifiers) if you want to profile a specific camera:
 
