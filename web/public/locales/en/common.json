@@ -226,7 +226,7 @@
       "title": "Documentation",
       "label": "Frigate documentation"
     },
-    "restart": "Restart Frigate",
+    "restart": "Restart Smarteyes",
     "live": {
       "title": "Live",
       "allCameras": "All Cameras",
