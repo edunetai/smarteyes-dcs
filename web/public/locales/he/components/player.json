@@ -30,16 +30,16 @@
   },
   "toast": {
     "success": {
-      "submittedFrigatePlus": "הפריים נשלח בהצלחה ל-Frigate+"
+      "submittedSmarteyesPlus": "הפריים נשלח בהצלחה ל-Smarteyes+"
     },
     "error": {
-      "submitFrigatePlusFailed": "שליחת הפריים ל-Frigate+ נכשלה"
+      "submitSmarteyesPlusFailed": "שליחת הפריים ל-Smarteyes+ נכשלה"
     }
   },
   "noPreviewFound": "לא נמצאה תצוגה מקדימה",
   "noPreviewFoundFor": "לא נמצאה תצוגה מקדימה עבור {{cameraName}}",
-  "submitFrigatePlus": {
-    "title": "לשלוח את הפריים הזה ל-Frigate+?",
+  "submitSmarteyesPlus": {
+    "title": "לשלוח את הפריים הזה ל-Smarteyes+?",
     "submit": "אישור"
   },
   "livePlayerRequiredIOSVersion": "נדרשת iOS 17.1 ומעלה עבור סוג השידור החי הזה.",

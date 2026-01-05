@@ -78,7 +78,7 @@
     "inProgress": "Izpilda",
     "invalidStartTime": "Nederīgs sākuma laiks",
     "invalidEndTime": "Nederīgs beigu laiks",
-    "untilForRestart": "Līdz Frigate pārstartējas.",
+    "untilForRestart": "Līdz Smarteyes pārstartējas.",
     "untilRestart": "Līdz pārstartēšanai",
     "ago": "{{timeAgo}} pirms",
     "justNow": "Nupat"
@@ -116,7 +116,7 @@
   },
   "field": {
     "optional": "Pēc izvēles",
-    "internalID": "Iekšējais frigates identifikators, ko izmanto konfigurācijā un datubāzē"
+    "internalID": "Iekšējais Smarteyess identifikators, ko izmanto konfigurācijā un datubāzē"
   },
   "button": {
     "apply": "Apstiprināt",
@@ -230,9 +230,9 @@
     "help": "Palīdzība",
     "documentation": {
       "title": "Dokumentācija",
-      "label": "Frigates dokumentācija"
+      "label": "Smarteyess dokumentācija"
     },
-    "restart": "Restartēt Frigate",
+    "restart": "Restartēt Smarteyes",
     "live": {
       "title": "Tiešraide",
       "allCameras": "Visas kameras",
@@ -272,7 +272,7 @@
     "title": "Loma",
     "admin": "Administrators",
     "viewer": "Skatītājs",
-    "desc": "Administratoriem ir pilna piekļuve visām Frigate funkcijām. Skatītāji var skatīt tikai kameras, skatāmos elementus un arhivētos ierakstus."
+    "desc": "Administratoriem ir pilna piekļuve visām Smarteyes funkcijām. Skatītāji var skatīt tikai kameras, skatāmos elementus un arhivētos ierakstus."
   },
   "pagination": {
     "label": "lappuse",
@@ -287,12 +287,12 @@
     "more": "Vairāk lapas"
   },
   "accessDenied": {
-    "documentTitle": "Piekļuve liegta - Frigate",
+    "documentTitle": "Piekļuve liegta - Smarteyes",
     "title": "Piekļuve liegta",
     "desc": "Jums nav atļaujas skatīt šo lapu."
   },
   "notFound": {
-    "documentTitle": "Nav atrasts - Frigate",
+    "documentTitle": "Nav atrasts - Smarteyes",
     "title": "404",
     "desc": "Lapa nav atrasta"
   },

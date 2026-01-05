@@ -1,9 +1,9 @@
 {
   "restart": {
-    "title": "Jeste li sigurni da želite ponovno pokrenuti Frigate?",
+    "title": "Jeste li sigurni da želite ponovno pokrenuti Smarteyes?",
     "button": "Ponovno pokreni",
     "restarting": {
-      "title": "Frigate se ponovno pokreće",
+      "title": "Smarteyes se ponovno pokreće",
       "content": "Ova stranica će se osvježiti za {{countdown}} sekundi.",
       "button": "Forsiraj ponovno pokretanje odmah"
     }
@@ -11,11 +11,11 @@
   "explore": {
     "plus": {
       "submitToPlus": {
-        "label": "Pošalji u Frigate+"
+        "label": "Pošalji u Smarteyes+"
       },
       "review": {
         "question": {
-          "label": "Potvrdi oznaku za Frigate Plus",
+          "label": "Potvrdi oznaku za Smarteyes Plus",
           "ask_a": "Da li je ovaj objekt <code>{{label}}</code>?",
           "ask_an": "Da li je ovaj objekt <code>{{label}}</code>?",
           "ask_full": "Da li je ovaj objekt <code>{{untranslatedLabel}}</code> ({{translatedLabel}})?"

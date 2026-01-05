@@ -1,6 +1,6 @@
 {
-  "documentTitle": "Canlı - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Canlı - Frigate",
+  "documentTitle": "Canlı - Smarteyes",
+  "documentTitle.withCamera": "{{camera}} - Canlı - Smarteyes",
   "muteCameras": {
     "disable": "Tüm Kameraların Sesini Aç",
     "enable": "Tüm Kameraları Sustur"
@@ -179,7 +179,7 @@
   },
   "noCameras": {
     "title": "Yapılandırılmış Kamera Yok",
-    "description": "Frigate’e bir kamera bağlayarak başlayın.",
+    "description": "Smarteyes’e bir kamera bağlayarak başlayın.",
     "buttonText": "Kamera Ekle",
     "restricted": {
       "title": "Kullanılabilir Kamera Yok",

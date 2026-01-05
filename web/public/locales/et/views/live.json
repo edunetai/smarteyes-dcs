@@ -12,8 +12,8 @@
     "transcription": "Heli üleskirjutus",
     "snapshots": "Hetkvõtted"
   },
-  "documentTitle": "Otseülekanne - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Otseülekanne - Frigate",
+  "documentTitle": "Otseülekanne - Smarteyes",
+  "documentTitle.withCamera": "{{camera}} - Otseülekanne - Smarteyes",
   "lowBandwidthMode": "Väikese ribalaiusega režiim",
   "twoWayTalk": {
     "enable": "Lülita kahepoolne kõneside sisse",

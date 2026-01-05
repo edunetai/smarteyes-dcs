@@ -14,7 +14,7 @@
     "10minutes": "10 minut",
     "30minutes": "30 minut",
     "untilForTime": "Do {{time}}",
-    "untilForRestart": "Do czasu restartu Frigate.",
+    "untilForRestart": "Do czasu restartu Smarteyes.",
     "untilRestart": "Do restartu",
     "ago": "{{timeAgo}} temu",
     "justNow": "Właśnie teraz",
@@ -226,7 +226,7 @@
       "nord": "Nordycki",
       "highcontrast": "Wysoki kontrast"
     },
-    "restart": "Uruchom ponownie Frigate",
+    "restart": "Uruchom ponownie Smarteyes",
     "live": {
       "title": "Na żywo",
       "allCameras": "Wszystkie kamery",
@@ -250,7 +250,7 @@
     },
     "documentation": {
       "title": "Dokumentacja",
-      "label": "Dokumentacja Frigate"
+      "label": "Dokumentacja Smarteyes"
     },
     "explore": "Przeglądaj",
     "configurationEditor": "Edytor konfiguracji",
@@ -261,7 +261,7 @@
   },
   "role": {
     "viewer": "Przeglądający",
-    "desc": "Administratorzy mają pełny dostęp do wszystkich funkcji w interfejsie Frigate. Przeglądający mają ograniczony dostęp tylko do podglądu kamer, przeglądania nagrań i historycznych materiałów w interfejsie.",
+    "desc": "Administratorzy mają pełny dostęp do wszystkich funkcji w interfejsie Smarteyes. Przeglądający mają ograniczony dostęp tylko do podglądu kamer, przeglądania nagrań i historycznych materiałów w interfejsie.",
     "title": "Rola",
     "admin": "Administrator"
   },
@@ -280,12 +280,12 @@
   "accessDenied": {
     "title": "Dostęp Zabroniony",
     "desc": "Nie masz uprawnień do wyświetlenia tej strony.",
-    "documentTitle": "Dostęp Zabroniony - Frigate"
+    "documentTitle": "Dostęp Zabroniony - Smarteyes"
   },
   "notFound": {
     "title": "404",
     "desc": "Strona nie znaleziona",
-    "documentTitle": "Nie Znaleziono - Frigate"
+    "documentTitle": "Nie Znaleziono - Smarteyes"
   },
   "selectItem": "Wybierz {{item}}",
   "toast": {

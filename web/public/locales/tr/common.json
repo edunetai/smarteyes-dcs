@@ -3,7 +3,7 @@
     "lastWeek": "Geçen Hafta",
     "thisWeek": "Bu Hafta",
     "lastMonth": "Geçen Ay",
-    "untilForRestart": "Frigate yeniden başlatılana kadar.",
+    "untilForRestart": "Smarteyes yeniden başlatılana kadar.",
     "untilRestart": "Yeniden başlatmaya kadar",
     "ago": "{{timeAgo}} önce",
     "justNow": "Az önce",
@@ -191,7 +191,7 @@
       "nord": "Kuzey",
       "highcontrast": "Yüksek Karşıtlık"
     },
-    "restart": "Frigate'i yeniden başlat",
+    "restart": "Smarteyes'i yeniden başlat",
     "live": {
       "title": "Canlı",
       "allCameras": "Tüm Kameralar",
@@ -206,7 +206,7 @@
     "system": "Sistem",
     "documentation": {
       "title": "Dökümantasyon",
-      "label": "Frigate dökümantasyonu"
+      "label": "Smarteyes dökümantasyonu"
     },
     "settings": "Ayarlar",
     "appearance": "Görünüm",
@@ -235,7 +235,7 @@
     "all": "Tümü"
   },
   "notFound": {
-    "documentTitle": "Bulunamadı - Frigate",
+    "documentTitle": "Bulunamadı - Smarteyes",
     "desc": "Sayfa bulunamadı",
     "title": "404"
   },
@@ -272,7 +272,7 @@
   "accessDenied": {
     "title": "Erişim Reddedildi",
     "desc": "Bu sayfayı görüntüleme yetkiniz yok.",
-    "documentTitle": "Erişim Reddedildi - Frigate"
+    "documentTitle": "Erişim Reddedildi - Smarteyes"
   },
   "toast": {
     "copyUrlToClipboard": "URL panoya kopyalandı.",
@@ -289,7 +289,7 @@
     "title": "Rol",
     "viewer": "Görüntüleyici",
     "admin": "Yönetici",
-    "desc": "Yöneticiler Frigate arayüzündeki bütün özelliklere tam erişim sahibidir. Görüntüleyiciler ise yalnızca kameraları, eski görüntüleri ve inceleme öğelerini görüntülemekle sınırlıdır."
+    "desc": "Yöneticiler Smarteyes arayüzündeki bütün özelliklere tam erişim sahibidir. Görüntüleyiciler ise yalnızca kameraları, eski görüntüleri ve inceleme öğelerini görüntülemekle sınırlıdır."
   },
   "readTheDocumentation": "Dökümantasyonu oku",
   "list": {
@@ -299,7 +299,7 @@
   },
   "field": {
     "optional": "İsteğe bağlı",
-    "internalID": "Frigate’ın yapılandırma ve veritabanında kullandığı Dahili Kimlik"
+    "internalID": "Smarteyes’ın yapılandırma ve veritabanında kullandığı Dahili Kimlik"
   },
   "information": {
     "pixels": "{{area}}px"

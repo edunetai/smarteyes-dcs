@@ -93,15 +93,15 @@
     }
   },
   "documentTitle": {
-    "default": "Seadistused - Frigate",
-    "authentication": "Autentimise seadistused - Frigate",
-    "cameraReview": "Kaamerate kordusvaatuste seadistused - Frigate",
-    "general": "Kasutajaliidese seadistused - Frigate",
-    "frigatePlus": "Frigate+ seadistused - Frigate",
-    "notifications": "Teavituste seadistused - Frigate",
-    "cameraManagement": "Kaamerate haldus - Frigate",
-    "masksAndZones": "Maskide ja tsoonide haldus - Frigate",
-    "object": "Silumine ja veaotsing - Frigate"
+    "default": "Seadistused - Smarteyes",
+    "authentication": "Autentimise seadistused - Smarteyes",
+    "cameraReview": "Kaamerate kordusvaatuste seadistused - Smarteyes",
+    "general": "Kasutajaliidese seadistused - Smarteyes",
+    "SmarteyesPlus": "Smarteyes+ seadistused - Smarteyes",
+    "notifications": "Teavituste seadistused - Smarteyes",
+    "cameraManagement": "Kaamerate haldus - Smarteyes",
+    "masksAndZones": "Maskide ja tsoonide haldus - Smarteyes",
+    "object": "Silumine ja veaotsing - Smarteyes"
   },
   "general": {
     "title": "Kasutajaliidese seadistused",
@@ -132,11 +132,11 @@
       }
     }
   },
-  "frigatePlus": {
-    "title": "Frigate+ seadistused",
-    "unsavedChanges": "Frigate+ seadistuste muudatused on salvestamata",
+  "SmarteyesPlus": {
+    "title": "Smarteyes+ seadistused",
+    "unsavedChanges": "Smarteyes+ seadistuste muudatused on salvestamata",
     "toast": {
-      "success": "Frigate+ seadistuste muudatused on salvestatud. Muudatuste kasutuselevõtmiseks käivita Frigate uuesti."
+      "success": "Smarteyes+ seadistuste muudatused on salvestatud. Muudatuste kasutuselevõtmiseks käivita Smarteyes uuesti."
     },
     "snapshotConfig": {
       "title": "Hetkvõtte seadistused",
@@ -178,7 +178,7 @@
     "users": "Kasutajad",
     "roles": "Rollid",
     "notifications": "Teavitused",
-    "frigateplus": "Frigate+"
+    "SmarteyesPlus": "Smarteyes+"
   },
   "dialog": {
     "unsavedChanges": {

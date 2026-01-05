@@ -1,13 +1,13 @@
 {
   "documentTitle": {
-    "cameras": "Status kamera - Frigate",
-    "storage": "Status Penyimpanan - Frigate",
-    "general": "Status umum - Frigate",
-    "enrichments": "Statistik Enrichment - Frigate",
+    "cameras": "Status kamera - Smarteyes",
+    "storage": "Status Penyimpanan - Smarteyes",
+    "general": "Status umum - Smarteyes",
+    "enrichments": "Statistik Enrichment - Smarteyes",
     "logs": {
-      "frigate": "Log Frigate - Frigate",
-      "go2rtc": "Log Go2RTC - Frigate",
-      "nginx": "Log NGINX - Frigate"
+      "Smarteyes": "Log Smarteyes - Smarteyes",
+      "go2rtc": "Log Go2RTC - Smarteyes",
+      "nginx": "Log NGINX - Smarteyes"
     }
   },
   "title": "Sistem",

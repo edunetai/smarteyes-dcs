@@ -1,9 +1,9 @@
 {
   "restart": {
-    "title": "Apakah kamu yakin ingin memulai ulang Frigate?",
+    "title": "Apakah kamu yakin ingin memulai ulang Smarteyes?",
     "button": "Mulai ulang",
     "restarting": {
-      "title": "Sedang Merestart Frigate",
+      "title": "Sedang Merestart Smarteyes",
       "content": "Halaman ini akan memulai ulang dalam {{countdown}} detik.",
       "button": "Muat Ulang Sekarang"
     }
@@ -11,12 +11,12 @@
   "explore": {
     "plus": {
       "submitToPlus": {
-        "label": "Kirim ke Frigate+",
+        "label": "Kirim ke Smarteyes+",
         "desc": "Objek di lokasi yang ingin Anda hindari bukanlah deteksi palsu. Mengirimnya sebagai deteksi palsu akan membingungkan model."
       },
       "review": {
         "question": {
-          "label": "Konfirmasi label ini untuk Frigate Plus",
+          "label": "Konfirmasi label ini untuk Smarteyes Plus",
           "ask_a": "Apakah objek ini adalah sebuah<code>{{label}}</code>?",
           "ask_an": "Apakah objek ini <code>{{label}}</code>?",
           "ask_full": "Apakah ini object <code>{{untranslatedLabel}}</code> ({{translatedLabel}})?"

@@ -1,13 +1,13 @@
 {
   "documentTitle": {
-    "cameras": "Kameru statistika - Frigate",
-    "storage": "Uzglabāšanas statistika - Frigate",
-    "general": "Vispārīgā statistika - Frigate",
-    "enrichments": "Bagātināšanas statistika - Frigate",
+    "cameras": "Kameru statistika - Smarteyes",
+    "storage": "Uzglabāšanas statistika - Smarteyes",
+    "general": "Vispārīgā statistika - Smarteyes",
+    "enrichments": "Bagātināšanas statistika - Smarteyes",
     "logs": {
-      "frigate": "Frigate konfigurācija - Frigate",
-      "go2rtc": "Logi Go2RTC - Frigate",
-      "nginx": "Logi Nginx - Frigate"
+      "Smarteyes": "Smarteyes konfigurācija - Smarteyes",
+      "go2rtc": "Logi Go2RTC - Smarteyes",
+      "nginx": "Logi Nginx - Smarteyes"
     }
   },
   "stats": {

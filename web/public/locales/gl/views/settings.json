@@ -1,11 +1,11 @@
 {
   "documentTitle": {
-    "default": "Preferencias - Frigate",
-    "authentication": "Configuracións de Autenticación - Frigate",
-    "camera": "Configuracións da Cámara - Frigate",
-    "general": "Configuracións xerais - Frigate",
-    "notifications": "Configuración de Notificacións - Frigate",
-    "enrichments": "Configuración complementarias - Frigate",
-    "masksAndZones": "Editor de máscaras e zonas - Frigate"
+    "default": "Preferencias - Smarteyes",
+    "authentication": "Configuracións de Autenticación - Smarteyes",
+    "camera": "Configuracións da Cámara - Smarteyes",
+    "general": "Configuracións xerais - Smarteyes",
+    "notifications": "Configuración de Notificacións - Smarteyes",
+    "enrichments": "Configuración complementarias - Smarteyes",
+    "masksAndZones": "Editor de máscaras e zonas - Smarteyes"
   }
 }

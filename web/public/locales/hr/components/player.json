@@ -1,7 +1,7 @@
 {
   "noRecordingsFoundForThisTime": "Nisu pronađene snimke za ovo vrijeme",
-  "submitFrigatePlus": {
-    "title": "Pošalji ovaj kadar u Frigate+?",
+  "submitSmarteyesPlus": {
+    "title": "Pošalji ovaj kadar u Smarteyes+?",
     "submit": "Pošalji"
   },
   "cameraDisabled": "Kamera je onemogućena",

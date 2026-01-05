@@ -1,17 +1,17 @@
 {
   "documentTitle": {
-    "default": "Pengaturan - Frigate",
-    "camera": "Pengaturan Kamera - Frigate",
-    "classification": "Pengaturan Klasifikasi - Frigate",
-    "authentication": "Pengaturan Autentikasi - Frigate",
-    "masksAndZones": "Editor Mask dan Zona - Frigate",
-    "motionTuner": "Penyetel Gerakan - Frigate",
-    "general": "Frigate - Pengaturan Umum",
-    "object": "Debug - Frigate",
-    "enrichments": "Frigate - Pengaturan Pengayaan",
-    "cameraManagement": "Pengaturan Kamera - Frigate",
-    "cameraReview": "Pengaturan Ulasan Kamera - Frigate",
-    "frigatePlus": "Pengaturan Frigate+ - Frigate"
+    "default": "Pengaturan - Smarteyes",
+    "camera": "Pengaturan Kamera - Smarteyes",
+    "classification": "Pengaturan Klasifikasi - Smarteyes",
+    "authentication": "Pengaturan Autentikasi - Smarteyes",
+    "masksAndZones": "Editor Mask dan Zona - Smarteyes",
+    "motionTuner": "Penyetel Gerakan - Smarteyes",
+    "general": "Smarteyes - Pengaturan Umum",
+    "object": "Debug - Smarteyes",
+    "enrichments": "Smarteyes - Pengaturan Pengayaan",
+    "cameraManagement": "Pengaturan Kamera - Smarteyes",
+    "cameraReview": "Pengaturan Ulasan Kamera - Smarteyes",
+    "SmarteyesPlus": "Pengaturan Smarteyes+ - Smarteyes"
   },
   "menu": {
     "cameraManagement": "Manajemen",
@@ -23,7 +23,7 @@
     "triggers": "Pemicu",
     "users": "Pengguna",
     "roles": "Peran",
-    "frigateplus": "Frigate+"
+    "SmarteyesPlus": "Smarteyes+"
   },
   "dialog": {
     "unsavedChanges": {

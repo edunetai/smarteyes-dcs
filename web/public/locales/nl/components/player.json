@@ -28,8 +28,8 @@
     },
     "decodedFrames": "Gedecodeerde frames:"
   },
-  "submitFrigatePlus": {
-    "title": "Dit frame indienen bij Frigate+?",
+  "submitSmarteyesPlus": {
+    "title": "Dit frame indienen bij Smarteyes+?",
     "submit": "Indienen"
   },
   "streamOffline": {
@@ -42,10 +42,10 @@
   "cameraDisabled": "Camera is uitgeschakeld",
   "toast": {
     "success": {
-      "submittedFrigatePlus": "Frame succesvol ingediend bij Frigate+"
+      "submittedSmarteyesPlus": "Frame succesvol ingediend bij Smarteyes+"
     },
     "error": {
-      "submitFrigatePlusFailed": "Het is niet gelukt om een frame naar Frigate+ te sturen"
+      "submitSmarteyesPlusFailed": "Het is niet gelukt om een frame naar Smarteyes+ te sturen"
     }
   }
 }

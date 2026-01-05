@@ -1,14 +1,14 @@
 {
   "documentTitle": {
-    "cameras": "Statistika kamera - Frigate",
-    "general": "Generalne statistike - Frigate",
+    "cameras": "Statistika kamera - Smarteyes",
+    "general": "Generalne statistike - Smarteyes",
     "logs": {
-      "go2rtc": "Go2RTC dnevnik - Frigate",
-      "nginx": "Nginx dnevnik - Frigate",
-      "frigate": "Frigate logovi - Frigate"
+      "go2rtc": "Go2RTC dnevnik - Smarteyes",
+      "nginx": "Nginx dnevnik - Smarteyes",
+      "Smarteyes": "Smarteyes logovi - Smarteyes"
     },
-    "storage": "Statistika pohrane - Frigate",
-    "enrichments": "Statistika obogaćivanja - Frigate"
+    "storage": "Statistika pohrane - Smarteyes",
+    "enrichments": "Statistika obogaćivanja - Smarteyes"
   },
   "title": "Sustav",
   "logs": {

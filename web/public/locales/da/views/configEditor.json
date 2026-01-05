@@ -1,10 +1,10 @@
 {
-  "documentTitle": "Konfigurationsstyring - Frigate",
+  "documentTitle": "Konfigurationsstyring - Smarteyes",
   "copyConfig": "Kopiér konfiguration",
   "saveAndRestart": "Gem & Genstart",
   "saveOnly": "Kun gem",
   "configEditor": "Konfigurationseditor",
   "safeConfigEditor": "Konfigurationseditor (Sikker tilstand)",
-  "safeModeDescription": "Frigate er i sikker tilstand på grund af en fejl ved validering af konfigurationen.",
+  "safeModeDescription": "Smarteyes er i sikker tilstand på grund af en fejl ved validering af konfigurationen.",
   "confirm": "Afslut uden at gemme?"
 }

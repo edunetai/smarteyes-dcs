@@ -1,14 +1,14 @@
 {
   "documentTitle": {
     "logs": {
-      "frigate": "Frigate Günlükleri - Frigate",
-      "go2rtc": "Go2RTC Günlükleri - Frigate",
-      "nginx": "Nginx Günlükleri - Frigate"
+      "Smarteyes": "Smarteyes Günlükleri - Smarteyes",
+      "go2rtc": "Go2RTC Günlükleri - Smarteyes",
+      "nginx": "Nginx Günlükleri - Smarteyes"
     },
-    "general": "Genel İstatistikler - Frigate",
-    "storage": "Depolama İstatistikleri - Frigate",
-    "cameras": "Kamera İstatistikleri - Frigate",
-    "enrichments": "Zenginleştirme İstatistikleri - Frigate"
+    "general": "Genel İstatistikler - Smarteyes",
+    "storage": "Depolama İstatistikleri - Smarteyes",
+    "cameras": "Kamera İstatistikleri - Smarteyes",
+    "enrichments": "Zenginleştirme İstatistikleri - Smarteyes"
   },
   "metrics": "Sistem metrikleri",
   "general": {
@@ -47,7 +47,7 @@
       "intelGpuWarning": {
         "title": "Intel GPU İstatistik Uyarısı",
         "message": "GPU istatistikleri kullanılamıyor",
-        "description": "Bu durum, donanımsal hızlandırma ve nesne tespiti (i)GPU üzerinde sorunsuz çalışıyor olsa bile, Intel’in GPU istatistik raporlama aracındaki (intel_gpu_top) bilinen bir hatadan ötürü GPU kullanımının %0 olarak bildirilmesinden kaynaklanmakta olup, Frigate hatası değildir. Sorunu geçici olarak düzeltmek ve (i)GPU’nun doğru çalıştığını doğrulamak için ana makineyi yeniden başlatabilirsiniz. Bu durum performansı etkilememektedir."
+        "description": "Bu durum, donanımsal hızlandırma ve nesne tespiti (i)GPU üzerinde sorunsuz çalışıyor olsa bile, Intel’in GPU istatistik raporlama aracındaki (intel_gpu_top) bilinen bir hatadan ötürü GPU kullanımının %0 olarak bildirilmesinden kaynaklanmakta olup, Smarteyes hatası değildir. Sorunu geçici olarak düzeltmek ve (i)GPU’nun doğru çalıştığını doğrulamak için ana makineyi yeniden başlatabilirsiniz. Bu durum performansı etkilememektedir."
       }
     },
     "otherProcesses": {
@@ -71,13 +71,13 @@
     "recordings": {
       "title": "Kayıtlar",
       "earliestRecording": "Mevcut en erken kayıt:",
-      "tips": "Burada gösterilen değer, Frigate’in veritabanına göre kayıtların diskinizde kullandığı toplam alanı ifade eder. Frigate, diskinizdeki tüm dosyaların alan kullanımını takip etmez."
+      "tips": "Burada gösterilen değer, Smarteyes’in veritabanına göre kayıtların diskinizde kullandığı toplam alanı ifade eder. Smarteyes, diskinizdeki tüm dosyaların alan kullanımını takip etmez."
     },
     "cameraStorage": {
       "title": "Kamera Depolaması",
       "camera": "Kamera",
       "unused": {
-        "tips": "Eğer diskinizde Frigate'in kayıtları dışında dosyalar varsa bu değer diskinizdeki boş alanı doğru olarak göstermeyebilir. Frigate kendi kayıtları dışındaki dosyaların disk kullanımını takip etmez.",
+        "tips": "Eğer diskinizde Smarteyes'in kayıtları dışında dosyalar varsa bu değer diskinizdeki boş alanı doğru olarak göstermeyebilir. Smarteyes kendi kayıtları dışındaki dosyaların disk kullanımını takip etmez.",
         "title": "Kullanılmayan"
       },
       "percentageOfTotalUsed": "Toplam Yüzde",

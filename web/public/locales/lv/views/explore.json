@@ -1,5 +1,5 @@
 {
-  "documentTitle": "Notikumu meklēšana - Frigate",
+  "documentTitle": "Notikumu meklēšana - Smarteyes",
   "generativeAI": "Ģeneratīvs AI",
   "exploreMore": "Paskatīt vairāk objektu{{label}}",
   "details": {
@@ -19,8 +19,8 @@
       "aria": "Atrast līdzīgus izsekotos priekšmetus"
     },
     "submitToPlus": {
-      "label": "Iesniegt Frigate+",
-      "aria": "Iesniegt Frigate Plus"
+      "label": "Iesniegt Smarteyes+",
+      "aria": "Iesniegt Smarteyes Plus"
     },
     "viewInHistory": {
       "label": "Atrast vēsturē"

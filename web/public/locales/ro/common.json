@@ -1,7 +1,7 @@
 {
   "time": {
     "untilForTime": "Până la {{time}}",
-    "untilForRestart": "Până la repornirea Frigate.",
+    "untilForRestart": "Până la repornirea Smarteyes.",
     "untilRestart": "Până la repornire",
     "ago": "{{timeAgo}} în urmă",
     "justNow": "Acum",
@@ -86,7 +86,7 @@
   "menu": {
     "documentation": {
       "title": "Documentație",
-      "label": "Documentație Frigate"
+      "label": "Documentație Smarteyes"
     },
     "explore": "Căutare",
     "uiPlayground": "UI Playground",
@@ -181,7 +181,7 @@
       }
     },
     "withSystem": "Modul sistemului",
-    "restart": "Repornește Frigate",
+    "restart": "Repornește Smarteyes",
     "review": "Revizuire",
     "classification": "Clasificare"
   },
@@ -264,7 +264,7 @@
   },
   "role": {
     "viewer": "Vizualizator",
-    "desc": "Administratorii au acces complet la toate funcționalitățile din interfața Frigate. Vizualizatorii sunt limitați la vizualizarea camerelor, a elementelor de revizuire și a înregistrărilor istorice în interfață.",
+    "desc": "Administratorii au acces complet la toate funcționalitățile din interfața Smarteyes. Vizualizatorii sunt limitați la vizualizarea camerelor, a elementelor de revizuire și a înregistrărilor istorice în interfață.",
     "admin": "Administrator",
     "title": "Rol"
   },
@@ -281,10 +281,10 @@
   "accessDenied": {
     "title": "Acces refuzat",
     "desc": "Nu ai permisiunea să vizualizezi această pagină.",
-    "documentTitle": "Acces refuzat - Frigate"
+    "documentTitle": "Acces refuzat - Smarteyes"
   },
   "notFound": {
-    "documentTitle": "Nu a fost găsit - Frigate",
+    "documentTitle": "Nu a fost găsit - Smarteyes",
     "title": "404",
     "desc": "Pagină negăsită"
   },
@@ -299,6 +299,6 @@
   },
   "field": {
     "optional": "Opțional",
-    "internalID": "ID-ul Intern pe care Frigate îl folosește în configurație și în baza de date"
+    "internalID": "ID-ul Intern pe care Smarteyes îl folosește în configurație și în baza de date"
   }
 }

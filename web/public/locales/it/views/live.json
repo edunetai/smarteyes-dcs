@@ -1,6 +1,6 @@
 {
-  "documentTitle": "Dal vivo - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Dal vivo - Frigate",
+  "documentTitle": "Dal vivo - Smarteyes",
+  "documentTitle.withCamera": "{{camera}} - Dal vivo - Smarteyes",
   "lowBandwidthMode": "Modalità a bassa larghezza di banda",
   "twoWayTalk": {
     "enable": "Abilita audio bidirezionale",
@@ -174,7 +174,7 @@
   "noCameras": {
     "buttonText": "Aggiungi telecamera",
     "title": "Nessuna telecamera configurata",
-    "description": "Per iniziare, collega una telecamera a Frigate.",
+    "description": "Per iniziare, collega una telecamera a Smarteyes.",
     "restricted": {
       "title": "Nessuna telecamera disponibile",
       "description": "Non hai l'autorizzazione per visualizzare alcuna telecamera in questo gruppo."

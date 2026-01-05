@@ -1,17 +1,17 @@
 {
   "documentTitle": {
-    "default": "設定 - Frigate",
-    "authentication": "認證設定 - Frigate",
-    "camera": "鏡頭設定 - Frigate",
-    "enrichments": "進階功能設定 - Frigate",
-    "general": "使用者介面設定 - Frigate",
-    "frigatePlus": "Frigate+ 設定 - Frigate",
-    "notifications": "通知設定 - Frigate",
-    "masksAndZones": "遮罩與區域編輯器 - Frigate",
-    "motionTuner": "移動偵測調教器 - Frigate",
-    "object": "除錯 - Frigate",
-    "cameraManagement": "管理鏡頭 - Frigate",
-    "cameraReview": "相機預覽設置 - Frigate"
+    "default": "設定 - Smarteyes",
+    "authentication": "認證設定 - Smarteyes",
+    "camera": "鏡頭設定 - Smarteyes",
+    "enrichments": "進階功能設定 - Smarteyes",
+    "general": "使用者介面設定 - Smarteyes",
+    "SmarteyesPlus": "Smarteyes+ 設定 - Smarteyes",
+    "notifications": "通知設定 - Smarteyes",
+    "masksAndZones": "遮罩與區域編輯器 - Smarteyes",
+    "motionTuner": "移動偵測調教器 - Smarteyes",
+    "object": "除錯 - Smarteyes",
+    "cameraManagement": "管理鏡頭 - Smarteyes",
+    "cameraReview": "相機預覽設置 - Smarteyes"
   },
   "menu": {
     "ui": "使用者介面",
@@ -22,7 +22,7 @@
     "debug": "除錯",
     "users": "使用者",
     "notifications": "通知",
-    "frigateplus": "Frigate+",
+    "SmarteyesPlus": "Smarteyes+",
     "triggers": "觸發",
     "cameraManagement": "管理",
     "cameraReview": "預覽",

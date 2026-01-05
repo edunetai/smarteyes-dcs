@@ -1,14 +1,14 @@
 {
   "documentTitle": {
-    "cameras": "Statistika kamer - Frigate",
-    "storage": "Statistika prostora - Frigate",
-    "general": "Statistika - Frigate",
+    "cameras": "Statistika kamer - Smarteyes",
+    "storage": "Statistika prostora - Smarteyes",
+    "general": "Statistika - Smarteyes",
     "logs": {
-      "frigate": "Frigate dnevniki - Frigate",
-      "go2rtc": "Go2RTC dnevniki - Frigate",
-      "nginx": "Nginx dnevniki - Frigate"
+      "Smarteyes": "Smarteyes dnevniki - Smarteyes",
+      "go2rtc": "Go2RTC dnevniki - Smarteyes",
+      "nginx": "Nginx dnevniki - Smarteyes"
     },
-    "enrichments": "Statistika Obogatitev - Frigate"
+    "enrichments": "Statistika Obogatitev - Smarteyes"
   },
   "logs": {
     "download": {
@@ -36,7 +36,7 @@
   "storage": {
     "recordings": {
       "title": "Posnetki",
-      "tips": "Ta vrednost predstavlja velikost podatkovne zbirke posnetkov Frigate. Frigate ne spremlja velikost drugih datotek na disku.",
+      "tips": "Ta vrednost predstavlja velikost podatkovne zbirke posnetkov Smarteyes. Smarteyes ne spremlja velikost drugih datotek na disku.",
       "earliestRecording": "Najstarejši posnetki:"
     },
     "title": "Hramba",
@@ -50,7 +50,7 @@
       "bandwidth": "Pasovna širina",
       "unused": {
         "title": "Neporabljeno",
-        "tips": "Ta vrednost ne predstavlja dejanske proste kapacitete za Frigate posnetke, če na disku shranjujete še druge datoteke. Frigate ne spremlja velikost drugih datotek na disku."
+        "tips": "Ta vrednost ne predstavlja dejanske proste kapacitete za Smarteyes posnetke, če na disku shranjujete še druge datoteke. Smarteyes ne spremlja velikost drugih datotek na disku."
       }
     }
   },

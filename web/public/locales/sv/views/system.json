@@ -1,14 +1,14 @@
 {
   "documentTitle": {
-    "storage": "Lagringsstatistik - Frigate",
-    "general": "Allmän statistik - Frigate",
-    "cameras": "Kamerastatistik - Frigate",
+    "storage": "Lagringsstatistik - Smarteyes",
+    "general": "Allmän statistik - Smarteyes",
+    "cameras": "Kamerastatistik - Smarteyes",
     "logs": {
-      "frigate": "Frigate-loggar - Frigate",
-      "go2rtc": "Go2RTC loggar - Frigate",
-      "nginx": "Nginx loggar - Frigate"
+      "Smarteyes": "Smarteyes-loggar - Smarteyes",
+      "go2rtc": "Go2RTC loggar - Smarteyes",
+      "nginx": "Nginx loggar - Smarteyes"
     },
-    "enrichments": "Förbättringsstatistik - Frigate"
+    "enrichments": "Förbättringsstatistik - Smarteyes"
   },
   "logs": {
     "copy": {
@@ -80,7 +80,7 @@
       "intelGpuWarning": {
         "title": "Intel GPU statistik varning",
         "message": "GPU statistik otillgänglig",
-        "description": "Detta är en känd bugg i Intels GPU-statistikrapporteringsverktyg (intel_gpu_top) där den slutar fungera och upprepade gånger returnerar en GPU-användning på 0 %, även i fall där hårdvaruacceleration och objektdetektering körs korrekt på (i)GPU:n. Detta är inte en Frigate-bugg. Du kan starta om värden för att tillfälligt åtgärda problemet och bekräfta att GPU:n fungerar korrekt. Detta påverkar inte prestandan."
+        "description": "Detta är en känd bugg i Intels GPU-statistikrapporteringsverktyg (intel_gpu_top) där den slutar fungera och upprepade gånger returnerar en GPU-användning på 0 %, även i fall där hårdvaruacceleration och objektdetektering körs korrekt på (i)GPU:n. Detta är inte en Smarteyes-bugg. Du kan starta om värden för att tillfälligt åtgärda problemet och bekräfta att GPU:n fungerar korrekt. Detta påverkar inte prestandan."
       }
     },
     "otherProcesses": {
@@ -96,7 +96,7 @@
       "bandwidth": "Bandbredd",
       "unused": {
         "title": "Oanvänt",
-        "tips": "Det här värdet kanske inte korrekt representerar det lediga utrymmet tillgängligt för Frigate om du har andra filer lagrade på din hårddisk utöver Frigates inspelningar. Frigate spårar inte lagringsanvändning utanför sina egna inspelningar."
+        "tips": "Det här värdet kanske inte korrekt representerar det lediga utrymmet tillgängligt för Smarteyes om du har andra filer lagrade på din hårddisk utöver Smarteyess inspelningar. Smarteyes spårar inte lagringsanvändning utanför sina egna inspelningar."
       },
       "title": "Kamera lagring",
       "camera": "Kamera",
@@ -106,7 +106,7 @@
     "overview": "Översikt",
     "recordings": {
       "title": "Inspelningar",
-      "tips": "Detta värde representerar den totala lagringsmängden som används av inspelningarna i Frigates databas. Frigate spårar inte lagringsanvändningen för alla filer på din disk.",
+      "tips": "Detta värde representerar den totala lagringsmängden som används av inspelningarna i Smarteyess databas. Smarteyes spårar inte lagringsanvändningen för alla filer på din disk.",
       "earliestRecording": "Tidigast tillgängliga inspelning:"
     },
     "shm": {

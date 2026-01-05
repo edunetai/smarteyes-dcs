@@ -28,7 +28,7 @@
       "deleteCategoryFailed": "Fallo al borrar clase: {{errorMessage}}",
       "deleteModelFailed": "Fallo al borrar modelo: {{errorMessage}}",
       "categorizeFailed": "Fallo al categorizar imagen: {{errorMessage}}",
-      "trainingFailed": "El entrenamiento del modelo ha fallado. Revisa los registros de Frigate para más detalles.",
+      "trainingFailed": "El entrenamiento del modelo ha fallado. Revisa los registros de Smarteyes para más detalles.",
       "updateModelFailed": "Fallo al actualizar modelo: {{errorMessage}}",
       "trainingFailedToStart": "No se pudo iniciar el entrenamiento del modelo: {{errorMessage}}"
     }

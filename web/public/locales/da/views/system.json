@@ -1,14 +1,14 @@
 {
   "documentTitle": {
-    "cameras": "Kamera Statistik - Frigate",
-    "storage": "Lagrings Statistik - Frigate",
+    "cameras": "Kamera Statistik - Smarteyes",
+    "storage": "Lagrings Statistik - Smarteyes",
     "logs": {
-      "frigate": "Frigate Logs - Frigate",
-      "go2rtc": "Go2RTC Logs - Frigate",
-      "nginx": "Nginx Logs - Frigate"
+      "Smarteyes": "Smarteyes Logs - Smarteyes",
+      "go2rtc": "Go2RTC Logs - Smarteyes",
+      "nginx": "Nginx Logs - Smarteyes"
     },
-    "general": "Generelle statistikker - Frigate",
-    "enrichments": "Beredningsstatistikker - Frigate"
+    "general": "Generelle statistikker - Smarteyes",
+    "enrichments": "Beredningsstatistikker - Smarteyes"
   },
   "title": "System",
   "logs": {
@@ -76,7 +76,7 @@
     "overview": "Overblik",
     "recordings": {
       "title": "Optagelser",
-      "tips": "Denne værdi repræsenterer den samlede lagerplads, der bruges af optagelserne i Frigates database. Frigate sporer ikke lagerpladsforbruget for alle filer på din disk.",
+      "tips": "Denne værdi repræsenterer den samlede lagerplads, der bruges af optagelserne i Smarteyess database. Smarteyes sporer ikke lagerpladsforbruget for alle filer på din disk.",
       "earliestRecording": "Tidligste optagelse til rådighed:"
     },
     "shm": {
@@ -92,7 +92,7 @@
       "bandwidth": "Båndbredde",
       "unused": {
         "title": "Ubrugt",
-        "tips": "Denne værdi repræsenterer muligvis ikke nøjagtigt den ledige plads, der er tilgængelig for Frigate, hvis du har andre filer gemt på dit drev ud over Frigates optagelser. Frigate sporer ikke lagerforbrug ud over sine optagelser."
+        "tips": "Denne værdi repræsenterer muligvis ikke nøjagtigt den ledige plads, der er tilgængelig for Smarteyes, hvis du har andre filer gemt på dit drev ud over Smarteyess optagelser. Smarteyes sporer ikke lagerforbrug ud over sine optagelser."
       }
     }
   },

@@ -32,14 +32,14 @@
   },
   "toast": {
     "success": {
-      "submittedFrigatePlus": "Đã gửi thành công khung hình tới Frigate+"
+      "submittedSmarteyesPlus": "Đã gửi thành công khung hình tới Smarteyes+"
     },
     "error": {
-      "submitFrigatePlusFailed": "Không gửi được khung hình tới Frigate+"
+      "submitSmarteyesPlusFailed": "Không gửi được khung hình tới Smarteyes+"
     }
   },
-  "submitFrigatePlus": {
-    "title": "Gửi khung hình này tới Frigate+?",
+  "submitSmarteyesPlus": {
+    "title": "Gửi khung hình này tới Smarteyes+?",
     "submit": "Gửi"
   },
   "livePlayerRequiredIOSVersion": "Yêu cầu iOS 17.1 trở lên cho loại luồng trực tiếp này.",

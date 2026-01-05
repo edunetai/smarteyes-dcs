@@ -1,7 +1,7 @@
 {
   "time": {
     "untilForTime": "Do {{time}}",
-    "untilForRestart": "Dok se Frigate ponovno pokrene.",
+    "untilForRestart": "Dok se Smarteyes ponovno pokrene.",
     "untilRestart": "Do ponovnog pokretanja",
     "justNow": "Upravo",
     "today": "Danas",

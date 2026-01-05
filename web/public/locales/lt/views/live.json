@@ -1,6 +1,6 @@
 {
-  "documentTitle": "Gyvai - Frigate",
-  "documentTitle.withCamera": "{{camera}} - Tiesiogiai - Frigate",
+  "documentTitle": "Gyvai - Smarteyes",
+  "documentTitle.withCamera": "{{camera}} - Tiesiogiai - Smarteyes",
   "lowBandwidthMode": "Mažo-pralaidumo Rėžimas",
   "cameraAudio": {
     "enable": "Įgalinti Kamerų Garsą",
@@ -171,7 +171,7 @@
   },
   "noCameras": {
     "title": "Nėra Sukonfiguruotų Kamerų",
-    "description": "Pradėti nuo kameros prijungimo pire Frigate.",
+    "description": "Pradėti nuo kameros prijungimo pire Smarteyes.",
     "buttonText": "Pridėti Kamerą"
   },
   "snapshot": {

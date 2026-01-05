@@ -1,14 +1,14 @@
 {
   "documentTitle": {
-    "cameras": "Kamerų Statistika - Frigate",
-    "storage": "Saugyklos Statistika - Frigate",
+    "cameras": "Kamerų Statistika - Smarteyes",
+    "storage": "Saugyklos Statistika - Smarteyes",
     "logs": {
-      "frigate": "Frigate Žurnalas - Frigate",
-      "go2rtc": "Go2RTC Žurnalas - Frigate",
-      "nginx": "Nginx Žurnalas - Frigate"
+      "Smarteyes": "Smarteyes Žurnalas - Smarteyes",
+      "go2rtc": "Go2RTC Žurnalas - Smarteyes",
+      "nginx": "Nginx Žurnalas - Smarteyes"
     },
-    "general": "Bendroji Statistika - Frigate",
-    "enrichments": "Pagerinimų Statistika - Frigate"
+    "general": "Bendroji Statistika - Smarteyes",
+    "enrichments": "Pagerinimų Statistika - Smarteyes"
   },
   "title": "Sistema",
   "metrics": "Sistemos metrikos",
@@ -89,7 +89,7 @@
     "overview": "Apžvalga",
     "recordings": {
       "title": "Įrašai",
-      "tips": "Ši reikšmė nurodo kiek iš viso Frigate duombazėje esantys įrašai užima vietos saugykloje. Frigate neseka kiek vietos užima visi kiti failai esantys laikmenoje.",
+      "tips": "Ši reikšmė nurodo kiek iš viso Smarteyes duombazėje esantys įrašai užima vietos saugykloje. Smarteyes neseka kiek vietos užima visi kiti failai esantys laikmenoje.",
       "earliestRecording": "Anksčiausias esantis įrašas:"
     },
     "cameraStorage": {
@@ -101,7 +101,7 @@
       "bandwidth": "Pralaidumas",
       "unused": {
         "title": "Nepanaudota",
-        "tips": "Jei saugykloje turite daugiau failų apart Frigate įrašų, ši reikšmė neatspindės tikslios likusios laisvos vietos Frigate panaudojimui. Frigate neseka saugyklos panaudojimo už savo įrašų ribų."
+        "tips": "Jei saugykloje turite daugiau failų apart Smarteyes įrašų, ši reikšmė neatspindės tikslios likusios laisvos vietos Smarteyes panaudojimui. Smarteyes neseka saugyklos panaudojimo už savo įrašų ribų."
       }
     },
     "shm": {

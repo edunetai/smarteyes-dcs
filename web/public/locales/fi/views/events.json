@@ -18,12 +18,12 @@
     "aria": "Valitse tapahtumat",
     "noFoundForTimePeriod": "Tapahtumia ei löydetty tältä ajanjaksolta."
   },
-  "documentTitle": "Tarkastelu - Frigate",
+  "documentTitle": "Tarkastelu - Smarteyes",
   "detected": "havaittu",
   "selected_one": "{{count}} valittu",
   "selected_other": "{{count}} valittu",
   "recordings": {
-    "documentTitle": "Tallenteet - Frigate"
+    "documentTitle": "Tallenteet - Smarteyes"
   },
   "calendarFilter": {
     "last24Hours": "Viimeiset 24 tuntia"

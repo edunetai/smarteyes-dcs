@@ -1,8 +1,8 @@
 {
   "noRecordingsFoundForThisTime": "Ebben az időpontban nem található felvétel",
   "noPreviewFound": "Nincs elérhető előkép",
-  "submitFrigatePlus": {
-    "title": "Elküldi ezt a képet a Frigate+-nak?",
+  "submitSmarteyesPlus": {
+    "title": "Elküldi ezt a képet a Smarteyes+-nak?",
     "submit": "Küldés"
   },
   "noPreviewFoundFor": "Nem található előnézet {{cameraName}}-hoz/-hez/-höz",
@@ -42,10 +42,10 @@
   },
   "toast": {
     "error": {
-      "submitFrigatePlusFailed": "Kép küldése a Frigate+-hoz meghiúsult"
+      "submitSmarteyesPlusFailed": "Kép küldése a Smarteyes+-hoz meghiúsult"
     },
     "success": {
-      "submittedFrigatePlus": "Kép sikeresen elküldve a Frigate+-nak"
+      "submittedSmarteyesPlus": "Kép sikeresen elküldve a Smarteyes+-nak"
     }
   }
 }

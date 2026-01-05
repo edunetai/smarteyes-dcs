@@ -3,8 +3,8 @@
   "noPreviewFound": "Ingen forhåndsvisning fundet",
   "cameraDisabled": "Kamera er deaktiveret",
   "noPreviewFoundFor": "Ingen forhåndsvisning fundet for {{cameraName}}",
-  "submitFrigatePlus": {
-    "title": "Indsend denne frame til Frigate+?",
+  "submitSmarteyesPlus": {
+    "title": "Indsend denne frame til Smarteyes+?",
     "submit": "Indsend"
   },
   "livePlayerRequiredIOSVersion": "iOS 17.1 eller nyere kræves for denne type livestream.",

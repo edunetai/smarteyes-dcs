@@ -12,10 +12,10 @@
     "detection": "Ni zaznanih elementov za pregled"
   },
   "recordings": {
-    "documentTitle": "Posnetki - Frigate"
+    "documentTitle": "Posnetki - Smarteyes"
   },
   "camera": "Kamera",
-  "documentTitle": "Pregled - Frigate",
+  "documentTitle": "Pregled - Smarteyes",
   "alerts": "Opozorila",
   "detections": "Zaznavanja",
   "motion": {

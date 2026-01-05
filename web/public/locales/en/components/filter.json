@@ -49,8 +49,8 @@
     "hasSnapshot": "Has a snapshot",
     "hasVideoClip": "Has a video clip",
     "submittedToFrigatePlus": {
-      "label": "Submitted to Frigate+",
-      "tips": "You must first filter on tracked objects that have a snapshot.<br /><br />Tracked objects without a snapshot cannot be submitted to Frigate+."
+      "label": "Submitted to Smarteyes+",
+      "tips": "You must first filter on tracked objects that have a snapshot.<br /><br />Tracked objects without a snapshot cannot be submitted to Smarteyes+."
     }
   },
   "sort": {

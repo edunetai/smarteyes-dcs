@@ -1,13 +1,13 @@
 {
   "documentTitle": {
-    "default": "Postavke - Frigate",
-    "authentication": "Postavke autentikacije - Frigate",
-    "cameraManagement": "Upravljaj kamerama - Frigate",
-    "masksAndZones": "Uređivač maski i zona - Frigate",
-    "general": "Postavke sučelja - Frigate",
-    "frigatePlus": "Frigate+ postavke - Frigate",
-    "notifications": "Postavke notifikacija - Frigate",
-    "enrichments": "Postavke obogaćivanja - Frigate"
+    "default": "Postavke - Smarteyes",
+    "authentication": "Postavke autentikacije - Smarteyes",
+    "cameraManagement": "Upravljaj kamerama - Smarteyes",
+    "masksAndZones": "Uređivač maski i zona - Smarteyes",
+    "general": "Postavke sučelja - Smarteyes",
+    "SmarteyesPlus": "Smarteyes+ postavke - Smarteyes",
+    "notifications": "Postavke notifikacija - Smarteyes",
+    "enrichments": "Postavke obogaćivanja - Smarteyes"
   },
   "menu": {
     "ui": "Sučelje",

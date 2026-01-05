@@ -1,9 +1,9 @@
 {
   "restart": {
-    "title": "Er du sikker på at du vil genstarte Frigate?",
+    "title": "Er du sikker på at du vil genstarte Smarteyes?",
     "button": "Genstart",
     "restarting": {
-      "title": "Frigate genstarter",
+      "title": "Smarteyes genstarter",
       "button": "Gennemtving genindlæsning nu",
       "content": "Denne side genindlæses om {{countdown}} sekunder."
     }
@@ -11,12 +11,12 @@
   "explore": {
     "plus": {
       "submitToPlus": {
-        "label": "Indsend til Frigate+",
+        "label": "Indsend til Smarteyes+",
         "desc": "Objekter på steder, du ønsker at undgå, er ikke falske positiver. Hvis du indsender dem som falske positiver, vil det forvirre modellen."
       },
       "review": {
         "question": {
-          "label": "Bekræft denne etiket til Frigate Plus",
+          "label": "Bekræft denne etiket til Smarteyes Plus",
           "ask_a": "Er dette objekt et <code>{{label}}</code>?"
         }
       }

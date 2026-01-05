@@ -47,9 +47,9 @@
     "label": "Vaata uusi ülevaatamiseks mõeldud kirjeid",
     "button": "Uued ülevaatamiseks mõeldud kirjed"
   },
-  "documentTitle": "Ülevaatamine - Frigate",
+  "documentTitle": "Ülevaatamine - Smarteyes",
   "recordings": {
-    "documentTitle": "Salvestised - Frigate"
+    "documentTitle": "Salvestised - Smarteyes"
   },
   "calendarFilter": {
     "last24Hours": "Viimased 24 tundi"
