@@ -18,7 +18,17 @@ version:
 
 local: version
 	docker buildx build --target=frigate --file docker/main/Dockerfile . \
-		--tag frigate:latest \
+		--tag diepho/smarteyes:latest \
+		--load
+
+smarteyes: version
+	docker buildx build --target=frigate --file docker/main/Dockerfile . \
+		--tag diepho/smarteyes:1.17 \
+		--load
+
+smarteyes-trt: version
+	docker buildx bake --file=docker/tensorrt/trt.hcl \
+	    --set=tensorrt.tags=diepho/smarteyes:1.17-trt tensorrt \
 		--load
 
 debug: version
